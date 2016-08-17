@@ -1,2 +1,2 @@
 #### fracture_detection
-###### Thesis re-write in python from matlab.
+###### Detect fractures in a medium using acoustic waves.  Published 2010,2012.
