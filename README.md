@@ -1,5 +1,5 @@
 
-# Detect and Map Fractures in a Medium for CO2 Sequestration / Storage
+# Detect and Map Fractures in a Medium for CO2 Sequestration and Storage
 ### Using the Amplitudes of Reflected Acoustic Waves
 
 #### Evaluating the potential for CO2 Sequestration in Subsurface Reservoirs.
